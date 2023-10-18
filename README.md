@@ -1,2 +1,2 @@
 # BTree_Simulator
-El objetivo era simular el funcionamiento de un arbol binario en todas sus fases: agregar un nodo, recorrerlo y eliminar un nodo
+The goal was to understand how a Binary Tree works in every phase: add a node, move through the tree y delete a node
